@@ -1,0 +1,10 @@
+@import url(components/food-card.css);
+@import url(components/footer.css);
+@import url(components/title.css);
+@import url(components/wrapper-2.css);
+@import url(components/wrapper-3.css);
+
+body {
+  margin: 0;
+}
+
